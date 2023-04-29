@@ -1,4 +1,4 @@
-package fundamentos3
+package fundamentosFuncoes
 
 fun main(){
     println(retornaName())

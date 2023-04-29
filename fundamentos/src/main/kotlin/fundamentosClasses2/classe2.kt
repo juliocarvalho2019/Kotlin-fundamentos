@@ -1,4 +1,4 @@
-package fundamentos2
+package fundamentosClasses2
 
 class Carro(var cor: String, val anoFabricacao: Int, val dono: Dono){
 

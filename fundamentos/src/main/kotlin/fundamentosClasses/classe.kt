@@ -1,4 +1,4 @@
-package fundamentos1
+package fundamentosClasses
 
 class Pessoa(var nome: String, var idade: Int) {
     override fun toString(): String {
